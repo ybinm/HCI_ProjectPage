@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+>_**ON&OFF**_ <br>
+>_1515023 YeBin Moon_ <br>
+>_1615003 Dawn Kim_ <br>
+>_1733004 RoYoung Kim_ <br>
 
-You can use the [editor on GitHub](https://github.com/ybinm/HCI_ProjectPage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Problem Statement
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When people want to cook, they search for a recipe. <br>
+However, usually people have hard time finding recipes that fit their situation. <br>
+For example, there are some situations when someone has no main ingredient or cooker. <br>
+The other situation is not enough time to cook. <br>
+<br>
+Recommending different recipes for each user <br>
+depending on the availability of ingredients or cooker,and cooking time user wants. <br>
+<br>
 
-### Markdown
+## Analysis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### User Analysis
 
-```markdown
-Syntax highlighted code block
+- **User Class**
+  - Recipe Uploader: Who tries to share the recipe <br>
+  - Recipe Reader: Who tries to see the recipe <br>
+  - System Manager: Who manage the system <br>
 
-# Header 1
-## Header 2
-### Header 3
+- **Characteristic** <br>
+  - [View more](./characteristic.md) <br>
 
-- Bulleted
-- List
+### Task Analysis
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ybinm/HCI_ProjectPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Domain Analysis
