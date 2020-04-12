@@ -37,7 +37,7 @@ depending on the availability of ingredients or cooker,and cooking time user wan
     - Cook for the recipe I want to upload
     - Take pictures while cooking
     - Log in to the website
-    - Write a post for my recipe including what ingredients were needed,
+    - Write a post for my recipe including what ingredients were needed, <br>
       what kind of kitchen tools were used and how long the cooking took
     - Divide ingredients  by whether they are necessary or optional while cooking
     - Recheck my recipe post before uploading
@@ -46,8 +46,7 @@ depending on the availability of ingredients or cooker,and cooking time user wan
   - Goal
     - Finding a recipe right for me
   - Preconditions
-    - Must know: what ingredients and kitchen tools I have,
-      my preference of the cooking time
+    - Must know: what ingredients and kitchen tools I have, my preference of the cooking time
   - Subtasks
     - Log in to the website
     - Search reflecting your cooking conditions
