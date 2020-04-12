@@ -52,7 +52,7 @@ depending on the availability of ingredients or kitchen tool, and cooking time u
     - Choose the recipe above all the recipes shown based on the search
     - Click the recipe chosen
 
-- **System Manager**
+- **System Manager’s point of view**
   - Goal
     - Editing the website
   - Preconditions
