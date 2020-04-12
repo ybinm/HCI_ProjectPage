@@ -6,14 +6,14 @@
     He likes taking pictures of his dish and uploading on SNS. <br>
 
 - **Recipe Reader**
-  - _Q1. Can you introduce yourself?_ <br>
-    My name is Dawn. I am 24. I am a university student in Ewha. <br>
-    **Q2. Where do you live and who do you live with?** <br>
+  - Q1. Can you introduce yourself? <br>
+    I'm Kim. I am 24. I am a university student in Ewha. <br>
+    Q2. Where do you live and who do you live with? <br>
     I live near school and live alone with two cats. <br>
     Q3. What do you do for a living? <br>
-    &nbsp; I am an illustrator. I draw for a living. <br> 
+    I am an illustrator. I draw for a living. <br> 
     Q4. How much money do you spend for a month on meal? <br>
-    &nbsp; I spend 20000-50000 won a day for meal. So it may be a hundred on average. <br>
+    I spend 20000-50000 won a day for meal. So it may be a hundred on average. <br>
     Q5. Which one do you prefer, cooking yourself or just buying dish? <br>
     I prefer delivery food. Because I don’t need to cook. <br>
     Q6. Can you tell us pros and cons about home cooking? <br>
@@ -25,7 +25,7 @@
     It looks delicious but first of all I don’t have enough ingredients especially condiments. Because I have soy sauce, sugar, pepper but no corn syrup. And I don’t know how many time I need to cook this. <br>
     
   - Q1. Can you introduce yourself? <br>
-    My name is Yebin and 25 years old. <br>
+    I'm Moon and 25 years old. <br>
     Q2. Where do you live and who do you live with? <br>
     I live with my sister at Seoul. <br>
     Q3. What do you do for a living? <br>
@@ -44,7 +44,7 @@
 
 - **System Manager**
   - They are majoring computer engineering. <br>
-    She is very objective and has no temper. <br>
-    She lives alone and hates cook because many of the ingredients were always left after cooking.<br>
+    They are in their 20s who don't have much cooking experience. <br>
+    And they search on the Internet if they want to know anything. <br>
 
 [← Back](./)
