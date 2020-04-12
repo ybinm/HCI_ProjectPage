@@ -7,11 +7,11 @@
 
 When people want to cook, they search for a recipe. <br>
 However, usually people have hard time finding recipes that fit their situation. <br>
-For example, there are some situations when someone has no main ingredient or cooker. <br>
+For example, there are some situations when someone has no main ingredient or kitchen tool. <br>
 The other situation is not enough time to cook. <br>
 <br>
 Recommending different recipes for each user <br>
-depending on the availability of ingredients or cooker,and cooking time user wants. <br>
+depending on the availability of ingredients or kitchen tool, and cooking time user wants. <br>
 <br>
 
 ## Analysis
@@ -39,8 +39,7 @@ depending on the availability of ingredients or cooker,and cooking time user wan
     - Log in to the website
     - Write a post for my recipe including what ingredients were needed, <br>
       what kind of kitchen tools were used and how long the cooking took
-    - Divide ingredients  by whether they are necessary or optional while cooking
-    - Recheck my recipe post before uploading
+    - Divide ingredients by whether they are necessary or optional while cooking
 
 - **Reader’s point of view**
   - Goal
@@ -59,8 +58,7 @@ depending on the availability of ingredients or cooker,and cooking time user wan
   - Preconditions
     - Must know: how to manage the website, contact information of all users
   - Subtasks
-    - Log in to the website as a manager
-    - Look through to find if there is any recipe with wrong information (Error check)
+    - Look through to find if there is any recipe without cooking condition selected
     - Contact the uploader to edit the recipe
     - Check out system errors
 
