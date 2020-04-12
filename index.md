@@ -28,4 +28,41 @@ depending on the availability of ingredients or cooker,and cooking time user wan
 
 ### Task Analysis
 
+- **Uploader’s point of view**
+  - Goal
+    - Uploading a recipe
+  - Preconditions
+    - Must know: how to upload my recipe on the website, how to explain my recipe
+  - Subtasks
+    - Cook for the recipe I want to upload
+    - Take pictures while cooking
+    - Log in to the website
+    - Write a post for my recipe including what ingredients were needed,
+      what kind of kitchen tools were used and how long the cooking took
+    - Divide ingredients  by whether they are necessary or optional while cooking
+    - Recheck my recipe post before uploading
+
+- **Reader’s point of view**
+  - Goal
+    - Finding a recipe right for me
+  - Preconditions
+    - Must know: what ingredients and kitchen tools I have,
+      my preference of the cooking time
+  - Subtasks
+    - Log in to the website
+    - Search reflecting your cooking conditions
+    - Choose the recipe above all the recipes shown based on the search
+    - Click the recipe chosen
+
+- **System Manager**
+  - Goal
+    - Editing the website
+  - Preconditions
+    - Must know: how to manage the website, contact information of all users
+  - Subtasks
+    - Log in to the website as a manager
+    - Look through to find if there is any recipe with wrong information (Error check)
+    - Contact the uploader to edit the recipe
+    - Check out system errors
+
 ### Domain Analysis
