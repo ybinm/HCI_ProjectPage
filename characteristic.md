@@ -25,11 +25,11 @@
     **It looks delicious but first of all I don’t have enough ingredients especially condiments. Because I have soy sauce, sugar, pepper but no corn syrup. And I don’t know how many time I need to cook this.** <br>
     
   - Q1. Can you introduce yourself? <br>
-    _I'm Moon and 25 years old._ <br>
+    - I'm Moon and 25 years old. <br>
     Q2. Where do you live and who do you live with? <br>
-    _I live with my sister in Seoul._ <br>
+    - I live with my sister in Seoul. <br>
     Q3. What do you do for a living? <br>
-    _With money my sister earned.._ <br>
+    - With money my sister earned.. <br>
     Q4. How much money do you spend on meal? <br>
     I do grocery shopping 1~2 times a week, about 30,000 won at a time. <br>
     Q5. Which one do you prefer, cooking yourself or just buying dish? <br>
