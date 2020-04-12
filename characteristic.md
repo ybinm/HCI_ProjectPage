@@ -25,22 +25,22 @@
     **It looks delicious but first of all I don’t have enough ingredients especially condiments. Because I have soy sauce, sugar, pepper but no corn syrup. And I don’t know how many time I need to cook this.** <br>
     
   - Q1. Can you introduce yourself? <br>
-    - I'm Moon and 25 years old. <br>
+    **I'm Moon and 25 years old.** <br>
     Q2. Where do you live and who do you live with? <br>
-    - I live with my sister in Seoul. <br>
+    **I live with my sister in Seoul.** <br>
     Q3. What do you do for a living? <br>
-    - With money my sister earned.. <br>
+    **With money my sister earned..** <br>
     Q4. How much money do you spend on meal? <br>
-    I do grocery shopping 1~2 times a week, about 30,000 won at a time. <br>
+    **I do grocery shopping 1~2 times a week, about 30,000 won at a time.** <br>
     Q5. Which one do you prefer, cooking yourself or just buying dish? <br>
-    I like cooking better, but I'm not good at it. <br>
+    **I like cooking better, but I'm not good at it.** <br>
     Q6. Can you tell us pros and cons about home cooking? <br>
-    Cooking with family is pleasure and home cooking is healthier than delivery food. <br>
-    I want to cook but don't know what to cook. <br>
+    **Cooking with family is pleasure and home cooking is healthier than delivery food.** <br>
+    **I want to cook but don't know what to cook.** <br>
     Q7. Where do you usually find recipes? <br>
-    I search on youtube or naver blog. <br>
+    **I search on youtube or naver blog.** <br>
     Q8. How was it? Is there any difficulty on web? <br>
-    There's a lot of latest information on YouTube, but video format is difficult to get quickly. And current websites are hard to get the information for me. For example, Cooking with shrimp is easy to find, but cooking with shrimp and garlic is hard to find. <br>
+    **There's a lot of latest information on YouTube, but video format is difficult to get quickly. And current websites are hard to get the information for me. For example, Cooking with shrimp is easy to find, but cooking with shrimp and garlic is hard to find.** <br>
 
 - **System Manager**
   - They are university students and majoring computer engineering. <br>
