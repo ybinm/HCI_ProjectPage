@@ -45,6 +45,6 @@
 - **System Manager**
   - They are university students and majoring computer engineering. <br>
     They are in their 20s who don't have much cooking experience. <br>
-    When they have something to know, they search on the Internet. <br>
+    When they want to know something, they search on the internet to get information. <br>
 
 [← Back](./)
