@@ -63,3 +63,5 @@ depending on the availability of ingredients or kitchen tool, and cooking time u
     - Check out system errors
 
 ### Domain Analysis
+
+![Diagram](./diagram.png)
