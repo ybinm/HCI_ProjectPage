@@ -72,4 +72,4 @@ depending on the availability of ingredients or cooking tool, and cooking time u
   - [View more](./beforeUsertest.md)
   
 - **After User-Test**
-  - [After UserTest](./afterUsertest.png)
+![After UserTest](./afterUsertest.png)
