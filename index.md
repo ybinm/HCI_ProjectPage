@@ -68,8 +68,6 @@ depending on the availability of ingredients or cooking tool, and cooking time u
 
 ## Paper Prototype
 
-### Before User-Test
-- [View more](./beforeUsertest.md)
-  
-### After User-Test
 ![After UserTest](./image/afterUsertest.jpg)
+
+- [View more](./paperPrototype.md)
