@@ -1,2 +1,2 @@
 ### Before User-Test
-![Before UserTest](./image/beforeUsertest.pg)
+![Before UserTest](./image/beforeUsertest.png)
