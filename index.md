@@ -43,7 +43,7 @@ depending on the availability of ingredients or cooking tool, and cooking time u
 
 - **Reader’s point of view**
   - Goal
-    - Finding a recipe right for me
+    - Finding a right recipe for me
   - Preconditions
     - Must know: what ingredients and kitchen tools I have, my preference of the cooking time
   - Subtasks
