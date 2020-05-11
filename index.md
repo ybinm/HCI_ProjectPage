@@ -34,10 +34,10 @@ depending on the availability of ingredients or cooking tool, and cooking time u
   - Preconditions
     - Must know: how to upload my recipe on the website, how to explain my recipe
   - Subtasks
-    - Cook for the recipe I want to upload
+    - Cook for the recipe uploader wants to upload
     - Take pictures while cooking
     - Log in to the website
-    - Write a post for my recipe including what ingredients were needed, <br>
+    - Write a post for the recipe including what ingredients were needed, <br>
       what kind of cooking tools were used and how long the cooking took
     - Divide ingredients by whether they are essential or optional while cooking
 
@@ -48,7 +48,7 @@ depending on the availability of ingredients or cooking tool, and cooking time u
     - Must know: what ingredients and cooking tools I have, my preference of the cooking time
   - Subtasks
     - Log in to the website
-    - Search reflecting your cooking conditions
+    - Search reflecting reader's cooking conditions
     - Choose the recipe above all the recipes shown based on the search
     - Click the recipe chosen
 
