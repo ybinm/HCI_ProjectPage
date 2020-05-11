@@ -7,7 +7,7 @@
 
 When people want to cook, they search for a recipe. <br>
 However, usually people have hard time finding recipes that fit their situation. <br>
-For example, there are some situations when someone has no main ingredient or cooking tool. <br>
+For example, there are some situations when someone has no essential ingredient or cooking tool. <br>
 The other situation is not enough time to cook. <br>
 <br>
 Recommending different recipes for each user <br>
