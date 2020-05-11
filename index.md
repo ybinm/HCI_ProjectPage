@@ -38,14 +38,14 @@ depending on the availability of ingredients or cooking tool, and cooking time u
     - Take pictures while cooking
     - Log in to the website
     - Write a post for my recipe including what ingredients were needed, <br>
-      what kind of kitchen tools were used and how long the cooking took
-    - Divide ingredients by whether they are necessary or optional while cooking
+      what kind of cooking tools were used and how long the cooking took
+    - Divide ingredients by whether they are essential or optional while cooking
 
 - **Reader’s point of view**
   - Goal
     - Finding a right recipe for me
   - Preconditions
-    - Must know: what ingredients and kitchen tools I have, my preference of the cooking time
+    - Must know: what ingredients and cooking tools I have, my preference of the cooking time
   - Subtasks
     - Log in to the website
     - Search reflecting your cooking conditions
